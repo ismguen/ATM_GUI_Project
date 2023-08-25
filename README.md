@@ -42,3 +42,16 @@ Welcome to the ATM-GUI project! This application provides a graphical user inter
 1. **Clone Repository:** Clone this repository to your local machine using the command: `git clone <repository-url>`.
 2. **Open in IDE:** Open the project in your preferred Java Integrated Development Environment (IDE).
 3. **Compile and Run:** Compile and run the project by executing the `Main`
+
+## Preview
+
+**Login**
+<img width="350" alt="image" src="https://github.com/ismguen/ATM_GUI_Project/assets/130120780/a93f92cc-2da0-419a-bb01-dec8de42e097">
+
+**Register**
+<img width="349" alt="image" src="https://github.com/ismguen/ATM_GUI_Project/assets/130120780/da6e19d8-c196-4326-9177-9960c3aa34d7">
+
+**Deposit**
+<img width="352" alt="image" src="https://github.com/ismguen/ATM_GUI_Project/assets/130120780/dcbd6f66-385b-4aeb-8ff9-249b4f62e9af">
+
+
