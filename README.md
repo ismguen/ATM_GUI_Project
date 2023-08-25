@@ -46,12 +46,19 @@ Welcome to the ATM-GUI project! This application provides a graphical user inter
 ## Preview
 
 **Login**
+
+
 ![Login Preview](https://github.com/ismguen/ATM_GUI_Project/assets/130120780/a93f92cc-2da0-419a-bb01-dec8de42e097.png)
 
 **Register**
+
+
+
 ![Register Preview](https://github.com/ismguen/ATM_GUI_Project/assets/130120780/da6e19d8-c196-4326-9177-9960c3aa34d7.png)
 
 **Deposit**
+
+
 ![Deposit Preview](https://github.com/ismguen/ATM_GUI_Project/assets/130120780/dcbd6f66-385b-4aeb-8ff9-249b4f62e9af.png)
 
 
